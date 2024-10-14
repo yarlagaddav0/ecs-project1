@@ -18,3 +18,13 @@ h1 {
     vertical-align: middle;
 
 }
+h2 {
+    /* margin-top: 24px; */
+    margin: 0px;
+    height: 76px;
+    font-size: 34px;
+    text-align: center;
+    background-color: #c2948a;
+    vertical-align: middle;
+
+}
